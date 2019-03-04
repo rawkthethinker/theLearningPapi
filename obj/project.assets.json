@@ -12199,11 +12199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rawk\\Documents\\dev\\theLearningPathApi\\theLearningPathApi.csproj",
+      "projectUniqueName": "C:\\Users\\Rawk\\Documents\\dev\\theLearningPathApi\\theLearningPathApi\\theLearningPathApi.csproj",
       "projectName": "theLearningPathApi",
-      "projectPath": "C:\\Users\\Rawk\\Documents\\dev\\theLearningPathApi\\theLearningPathApi.csproj",
+      "projectPath": "C:\\Users\\Rawk\\Documents\\dev\\theLearningPathApi\\theLearningPathApi\\theLearningPathApi.csproj",
       "packagesPath": "C:\\Users\\Rawk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rawk\\Documents\\dev\\theLearningPathApi\\obj\\",
+      "outputPath": "C:\\Users\\Rawk\\Documents\\dev\\theLearningPathApi\\theLearningPathApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
