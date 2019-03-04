@@ -1,0 +1,4 @@
+C:\Users\Rawk\Documents\dev\theLearningPathApi\obj\Debug\netcoreapp2.0\theLearningPathApi.csprojAssemblyReference.cache
+C:\Users\Rawk\Documents\dev\theLearningPathApi\obj\Debug\netcoreapp2.0\theLearningPathApi.csproj.CoreCompileInputs.cache
+C:\Users\Rawk\Documents\dev\theLearningPathApi\obj\Debug\netcoreapp2.0\theLearningPathApi.AssemblyInfoInputs.cache
+C:\Users\Rawk\Documents\dev\theLearningPathApi\obj\Debug\netcoreapp2.0\theLearningPathApi.AssemblyInfo.cs
